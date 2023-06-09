@@ -1,0 +1,849 @@
+:root {
+  --primary-glass: linear-gradient(
+    to right bottom,
+    rgba(0, 0, 0, 0.7),
+    rgba(64, 64, 64, 0.3)
+  );
+  --secondary-glass: linear-gradient(
+    to right bottom,
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.2)
+  );
+  --primary-color: white;
+  --secondary-color: #1d1e21;
+  --primary-filter: none;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: black;
+  font-weight: 600;
+  font-size: 3rem;
+  opacity: 0.8;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  font-weight: 600;
+  opacity: 0.4;
+  text-align: center;
+  font-size: 18px;
+  word-wrap: break-word;
+  margin-bottom: 10px;
+}
+
+p {
+  color: black;
+  font-weight: 100;
+  opacity: 0.8;
+  font-size: 16px;
+  text-align: center;
+  word-wrap: break-word;
+}
+
+h3 {
+  color: black;
+  font-weight: 600;
+  opacity: 0.8;
+  text-align: center;
+}
+
+h4 {
+  color: black;
+  font-weight: 100;
+  opacity: 0.8;
+  font-size: 14px;
+  text-align: center;
+}
+
+h5 {
+  color: black;
+  font-weight: 100;
+  opacity: 0.8;
+  font-size: 16px;
+  text-align: center;
+  word-wrap: break-word;
+  margin-bottom: 10px;
+}
+p a {
+  color: rgb(4, 0, 255);
+  font-weight: 100;
+  opacity: 0.8;
+  font-size: 14px;
+  text-align: center;
+}
+
+main {
+  font-family: "Lato", sans-serif;
+  min-height: 100vh;
+  /*background: linear-gradient(to right top, #65dfc9, #6cdbeb);*/
+  background: #e6e6e6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding-top: 4%;
+  padding-bottom: 4%;
+  padding-left: 4%;
+  padding-right: 4%;
+}
+
+.glass {
+  /*background: white;*/
+  min-height: 80vh;
+  /*background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.3)
+  );*/
+  background: rgba(122, 122, 122, 0.05);
+  border-radius: 2rem;
+  width: 60%;
+  margin-left: 10%;
+  margin-right: 10%;
+  z-index: 2;
+  backdrop-filter: blur(10px);
+  display: flex;
+}
+
+.dashboard {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  text-align: center;
+  /*background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.3)
+  );*/
+  background: rgb(226, 226, 226);
+  box-shadow:rgba(0, 0, 0, 0.2) 0px 0px 10px;
+  border-radius: 2rem;
+  padding-top: 4%;
+  min-height: 81.5%;
+  width: 0;
+  position: absolute;
+  z-index: 1;
+  overflow-x: hidden;
+  transition: 0.5s;
+  backdrop-filter: blur(10px);
+}
+.dashboard a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #d6d6d6;
+  display: fixed;
+  transition: 0.3s;
+  text-align: center;
+  align-content: center;
+}
+
+.dashboard a:hover {
+  color: #f1f1f1;
+}
+
+.dashboard .closebtn {
+  position: relative;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+  color: black;
+  opacity: 0.5;
+}
+.dashboard .closebtn:hover {
+  color: #d61e1e;
+}
+.mainbody .openbtn {
+  /*background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.3)
+  );*/
+  border-radius: 2rem;
+  top: -100px;
+  left: 57rem;
+  width: 0;
+  transition: 0.5s;
+  backdrop-filter: blur(10px);
+  position: relative;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  transition: 0.3s;
+}
+.mainbody a:hover {
+  color: #f1f1f1;
+}
+.link {
+  display: relative;
+  margin: 1rem 1rem;
+  padding: 1rem 1rem;
+  align-items: center;
+  width: 100%;
+}
+.link h2 {
+  padding: 0rem 2rem;
+}
+
+.mainbody {
+  flex: 2;
+}
+
+.pro {
+  background: linear-gradient(to right top, #65dfc9, #6cdbeb);
+  border-radius: 2rem;
+  color: white;
+  padding: 1rem;
+  position: relative;
+}
+
+.pro img {
+  position: absolute;
+  top: -10%;
+  right: 10%;
+}
+.pro h2 {
+  width: 40%;
+  color: white;
+  font-weight: 600;
+}
+
+/* mainbody */
+.status {
+  /*margin-bottom: 3rem;*/
+  text-align: center;
+}
+
+.status input {
+  /*background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.3)
+  );*/
+  background: rgba(122, 122, 122, 0.25);
+  border: none;
+  width: 100%;
+  padding: 12px 12px;
+  border-radius: 8px;
+  opacity: 0.5;
+  border-width: 0;
+  color: #c9c9c9;
+  margin-top: 15px;
+}
+
+.mainbody {
+  margin: 5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.DIVID {
+  display: flex;
+  width: 100%;
+}
+
+.card {
+  display: relative;
+  /*background: linear-gradient(
+    to left top,
+    rgba(255, 255, 255, 0.8),
+    rgba(255, 255, 255, 0.5)
+  );*/
+  background: rgba(122, 122, 122, 0.15);
+  border-radius: 1rem;
+  margin: 2rem 0rem;
+  padding: 2rem;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.cardalert {
+  display: relative;
+  /*background: linear-gradient(
+    to left top,
+    rgba(255, 255, 255, 0.8),
+    rgba(255, 255, 255, 0.5)
+  );*/
+  background: rgba(255, 0, 0, 0.15);
+  border-radius: 1rem;
+  margin: 2rem 0rem;
+  padding: 2rem;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.card img {
+  width: 100%;
+}
+
+.card-answer {
+  display: relative;
+  /*background: linear-gradient(
+    to left top,
+    rgba(255, 255, 255, 0.8),
+    rgba(255, 255, 255, 0.5)
+  );*/
+  background: rgba(162, 81, 81, 0.15);
+  border-radius: 1rem;
+  margin: 2rem 0rem;
+  padding: 2rem;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.progress {
+  background: linear-gradient(to right top, #65dfc9, #6cdbeb);
+  width: 100%;
+  height: 25%;
+  border-radius: 1rem;
+  position: relative;
+  overflow: hidden;
+}
+.progress::after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  background: rgb(236, 236, 236);
+  position: absolute;
+  left: 60%;
+}
+.card-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.card-content {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  width: 100%;
+}
+.card-footer {
+  display: relative;
+  /*background: linear-gradient(
+    to left top,
+    rgba(255, 255, 255, 0.8),
+    rgba(255, 255, 255, 0.5)
+  );*/
+  background: rgba(122, 122, 122, 0.15);
+  border-radius: 1rem;
+  margin: 2rem 0rem;
+  padding: 2rem;
+  justify-content: space-between;
+  text-align: center;
+  margin-top: 10rem;
+}
+
+.card-button {
+  background: rgb(173, 173, 173);
+  opacity: 0.5;
+  border-radius: 8px;
+  border-width: 0;
+  color: #d2d2d2;
+  cursor: pointer;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.8);
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 10px 12px;
+  text-align: center;
+  transition: all 200ms;
+  vertical-align: baseline;
+  white-space: nowrap;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+
+.card-button-on {
+  background: rgba(255, 80, 80, 0.9);
+  opacity: 0.5;
+  border-radius: 8px;
+  border-width: 0;
+  color: #f61212;
+  cursor: pointer;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.8);
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 10px 12px;
+  text-align: center;
+  transition: all 200ms;
+  vertical-align: baseline;
+  white-space: nowrap;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+
+.card-button:hover {
+  background: rgba(255, 0, 0, 0.25);
+  opacity: 1;
+  transition: 0.5s;
+}
+
+.button-1:hover,
+.button-1:focus {
+  background-color: #f082ac;
+}
+.menulinks {
+  position: relative;
+  color: var(--primary-color);
+  cursor: pointer;
+  text-decoration: none;
+}
+.menutitle {
+  position: relative;
+  text-decoration: none;
+}
+
+.darktoggle {
+  width: 32px;
+  height: 32px;
+  background: rgb(233, 75, 75);
+  opacity: 0.5;
+  background-repeat: no-repeat;
+  background-size: 16px;
+  cursor: pointer;
+  margin-top: 3px;
+  left: 50rem;
+}
+.darktoggle:hover {
+  opacity: 1;
+  transition: 0.5s;
+}
+.bx {
+  font-family: boxicons !important;
+  font-weight: 400;
+  font-style: normal;
+  font-variant: normal;
+  font-size: 28px;
+  line-height: 1;
+  text-rendering: auto;
+  display: inline-block;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: black;
+  opacity: 0.5;
+}
+.bx:hover {
+  opacity: 1;
+  transition: 0.5s;
+  color: rgb(215, 71, 71);
+  opacity: 0.5;
+}
+.bx2 {
+  color: rgba(0, 0, 0, 0.9);
+  font-family: boxicons !important;
+  font-weight: 400;
+  font-style: normal;
+  font-variant: normal;
+  font-size: 28px;
+  opacity: 0.5;
+  line-height: 1;
+  text-rendering: auto;
+  display: inline-block;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.bx3 {
+  background: rgba(0, 0, 0, 0.25);
+  border: none;
+  padding: 12px 12px;
+  border-radius: 8px;
+  opacity: 0.5;
+  border-width: 0;
+  color: rgba(50, 50, 50, 0.9);
+  font-family: boxicons !important;
+  font-size: 20px;
+  opacity: 0.5;
+  line-height: 1;
+  text-rendering: auto;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  cursor: pointer;
+  margin-left: 10px;
+  margin-top: 15px;
+}
+.bx3:hover {
+  opacity: 1;
+  transition: 0.5s;
+}
+
+form {
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  margin-top: 15px;
+}
+
+/* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+#map {
+  height: 580px;
+  width: 100%;
+}
+
+.custom-map-control-button {
+  background-color: #eaeaea;
+  color: #000000;
+  border: 0;
+  border-radius: 2px;
+  box-shadow: 0 1px 4px -1px rgba(0, 0, 0, 0.3);
+  margin: 10px;
+  font: 400 12px Roboto, Arial, sans-serif;
+  overflow: hidden;
+  height: 40px;
+  cursor: pointer;
+  width: 6%;
+}
+.custom-map-control-button:hover {
+  background: #db6d6d;
+  opacity: 1;
+  transition: 0.5s;
+}
+
+/*div > div > div > button { /* this is what I did 
+  background-color: #202023 !important;
+}*/
+
+/*div > div > div > button:hover { /* this is what I did 
+  background-color: #3c3c3c !important;
+  color: #000;
+  opacity: 1;
+  transition: 0.5s;
+}*/
+
+[class*='-keyboard-shortcuts-dialog-view']{
+  display:none;
+}
+
+/* remove the wrapping container */
+.gm-style-cc:last-child {
+    display: none !important;
+}
+/* remove the link only */
+a[title="Report errors in the road map or imagery to Google"] {
+    display: none !important;
+}
+
+.gmnoprint a, .gmnoprint span {
+  display:none;
+}
+.gmnoprint div {
+  background:none !important;
+}
+#GMapsID div div a div img{
+  display:none;
+}
+#description {
+  font-family: Roboto;
+  font-size: 10px;
+  font-weight: 300;
+}
+
+#infowindow-content .title {
+  font-weight: bold;
+}
+
+#infowindow-content {
+  display: none;
+}
+
+#map #infowindow-content {
+  display: inline;
+}
+
+.pac-card {
+  background-color: rgb(190, 22, 22);
+  border: 0;
+  border-radius: 2px;
+  box-shadow: 0 1px 4px -1px rgba(0, 0, 0, 0.3);
+  margin: 10px;
+  padding: 0 0.5em;
+  font: 400 18px Roboto, Arial, sans-serif;
+  overflow: hidden;
+  font-family: Roboto;
+  padding: 0;
+}
+
+#pac-container {
+  padding-bottom: 22px;
+  margin-right: 17px;
+}
+
+.pac-controls {
+  display: inline-block;
+  padding: 5px 11px;
+}
+
+.pac-controls label {
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 300;
+}
+
+#searchInput {
+  background-color: #202023;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+  padding: 8px 10px 10px 10px;
+  text-overflow: ellipsis;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: white;
+  color: #474747;
+  width: 35%;
+}
+
+#searchInput:focus {
+  border-color: #202023;
+  background-color: #202023;
+}
+
+#title {
+  color: #fff;
+  background-color: #202023;
+  font-size: 25px;
+  font-weight: 500;
+  padding: 6px 12px;
+}
+#target {
+  width: 345px;
+}
+
+.infoboxheader {
+  font-size: 55px;
+}
+
+.gm-style .gm-style-iw-d::-webkit-scrollbar-track, 
+.gm-style .gm-style-iw-d::-webkit-scrollbar-track-piece,
+.gm-style .gm-style-iw-c,
+.gm-style .gm-style-iw-t::after { 
+  background: #202023;
+  color: white;
+  border-radius: 0;
+  justify-content: center;
+  text-align: center;
+  height: 140px;
+  width: 400px;
+  background-color: #202023;
+}
+
+/* BING MAPS */
+#bingMap {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  background-color: black;
+  z-index: 0;
+}
+
+.as_container {
+  position: relative;
+  }
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #555555;
+  text-align: left;
+  padding: 8px;
+  color: rgba(122, 122, 122, 1.9);
+  font-weight: 100;
+  opacity: 0.8;
+}
+
+tr:nth-child(even) {
+  background-color: #c2c2c2;
+}
+
+.seperator {
+  opacity: 0.5;
+  color:black;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 1px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #252525;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.leaflet-touch .leaflet-bar a {
+  width: 50px;
+  background-color: #e6e6e6;
+  color: #5f5f5f;
+}
+
+.leaflet-touch .leaflet-control-layers-toggle {
+  width: 50px;
+  background-color: #e6e6e6;
+  color: #5f5f5f;
+}
+
+/* openlayers */
+.mapstyle1 {
+  height: 550px;
+  /*width: 400px;*/
+  width: 100%;
+}
+
+.scalestyle1  {
+  position: relative;
+  height: 60px;
+  width: 100px;
+}
+
+.ol-scale-line  {
+  background: black;
+  padding: 10px;
+}
+
+.mapstyle1 .ol-overviewmap{
+  left: calc(100% - 0.5em * 2 - 1.575em * 2);
+}
+
+.olControlOverviewMapContainer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.layer-switcher {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 1000;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 5px;
+  margin: 5px;
+  margin-top: 15px;
+}
+
+/* Hide the browser's default radio button */
+.container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom radio button */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+  border-radius: 50%;
+}
+
+/* On mouse-over, add a grey background color */
+.container:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the radio button is checked, add a blue background */
+.container input:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.container .checkmark:after {
+  top: 9px;
+  left: 9px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: white;
+}
+
+.button2 {
+  background: rgb(113 149 187);
+  border-radius: 8px;
+  border-width: 0;
+  color: #ffffff;
+  cursor: pointer;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 4px 5px;
+  text-align: center;
+  transition: all 200ms;
+  vertical-align: baseline;
+  white-space: nowrap;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}

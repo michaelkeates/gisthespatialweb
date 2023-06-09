@@ -1,0 +1,337 @@
+html,
+body,
+.mapstyle1 {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+h2 {
+  font-size: 16px;
+}
+
+p {
+  font-size: 12px;
+  margin-bottom: -6px;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  position: relative;
+  background-color: rgba(237, 237, 237, 0.5);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  z-index: 1;
+  margin-top: 1px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 22px 16px;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: absolute;
+  color: #404040;
+  text-align: center;
+  text-decoration: none;
+  font-size: 17px;
+  padding: 14px 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: rgb(127, 162, 200);
+  color: rgb(255, 255, 255);
+}
+
+.panel2 {
+  position: absolute;
+  top: calc(100% - 0.5em * 2 - 26.199em * 2);
+  left: 10px;
+  z-index: 5;
+  background-color: rgba(237, 237, 237, 0.5);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  text-align: center;
+  font-family: "Roboto", "sans-serif";
+  line-height: 30px;
+  width: 500px;
+  padding-left: 10px;
+}
+
+.card-info {
+  position: relative;
+  top: calc(100% - 0.5em * 2 - 8.915em * 2);
+  z-index: 5;
+  text-align: center;
+  font-family: "Roboto", "sans-serif";
+  line-height: 30px;
+  width: 100%;
+  padding-left: 10px;
+}
+
+.link {
+  display: flex;
+  padding: 1rem 1rem;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+.link h2 {
+  padding: 0rem 2rem;
+}
+
+/* Customize the label (the container) */
+.container {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  font-size: 14px;
+  padding-right: 10px;
+}
+
+/* Hide the browser's default radio button */
+.container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom radio button */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+  border-radius: 50%;
+}
+
+/* On mouse-over, add a grey background color */
+.container:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the radio button is checked, add a blue background */
+.container input:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.container .checkmark:after {
+  top: 9px;
+  left: 9px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: white;
+}
+
+.card-button {
+  background: rgb(113 149 187);
+  border-radius: 8px;
+  border-width: 0;
+  color: #ffffff;
+  cursor: pointer;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 4px 5px;
+  text-align: center;
+  transition: all 200ms;
+  vertical-align: baseline;
+  white-space: nowrap;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.card-button-on {
+  background: rgb(255, 169, 57);
+  border-radius: 9px;
+  border-width: 0;
+  color: #ffffff;
+  cursor: pointer;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 4px 5px;
+  text-align: center;
+  transition: all 200ms;
+  vertical-align: baseline;
+  white-space: nowrap;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.card-button:hover {
+  background: rgb(186, 158, 67);
+  opacity: 1;
+  transition: 0.5s;
+}
+
+.nav-button {
+  background: rgb(113 149 187);
+  border-radius: 8px;
+  border-width: 0;
+  color: #ffffff;
+  cursor: pointer;
+  line-height: 10px;
+  list-style: none;
+  margin: 0;
+  padding: 5px 7px;
+  text-align: center;
+  transition: all 200ms;
+  vertical-align: baseline;
+  white-space: nowrap;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.nav-button:hover {
+  background: rgb(67, 154, 186);
+  opacity: 1;
+  transition: 0.5s;
+}
+
+.nav-button-on {
+  background: rgb(255, 157, 28);
+  border-radius: 8px;
+  border-width: 0;
+  color: #ffffff;
+  cursor: pointer;
+  line-height: 10px;
+  list-style: none;
+  margin: 0;
+  padding: 5px 7px;
+  text-align: center;
+  transition: all 200ms;
+  vertical-align: baseline;
+  white-space: nowrap;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.seperator {
+  opacity: 0.35;
+  color: black;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.mapstyle1 {
+  margin-top: -68px;
+}
+
+.mapstyle1 .ol-zoom {
+  top: calc(100% - 0.5em * 2 - 1.575em * 2);
+  left: calc(100% - 0.5em * 2 - 1.575em * 2);
+}
+
+.mapstyle1 .ol-mouse-position {
+  top: calc(100% - 1.5em * 2 - 1.575em * 2);
+}
+
+.mapstyle1 .ol-full-screen {
+  top: calc(100% - 0.5em * 2 - 1.575em * 2);
+}
+
+.scalestyle1  {
+  position: relative;
+  height: 50px;
+  width: 100px;
+}
+
+.ol-scale-line  {
+  background: black;
+  padding: 10px;
+}
+
+.mapstyle1 .ol-overviewmap{
+  left: 50%;
+}
+
+.olControlOverviewMapContainer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.layer-switcher {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 1000;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 5px;
+  margin: 5px;
+  margin-top: 15px;
+}
+
+.button {
+  background: rgb(113 149 187);
+  border-radius: 8px;
+  border-width: 0;
+  color: #ffffff;
+  cursor: pointer;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 4px 5px;
+  text-align: center;
+  transition: all 200ms;
+  vertical-align: baseline;
+  white-space: nowrap;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}

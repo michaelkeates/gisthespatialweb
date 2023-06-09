@@ -1,0 +1,2519 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="centroids" id="centroids">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="RecordNumb" type="int"></SimpleField>
+	<SimpleField name="SAMNumber" type="string"></SimpleField>
+	<SimpleField name="Name_cy" type="string"></SimpleField>
+	<SimpleField name="Designatio" type="string"></SimpleField>
+	<SimpleField name="BroadClass" type="string"></SimpleField>
+	<SimpleField name="BroadClas0" type="string"></SimpleField>
+	<SimpleField name="Period" type="string"></SimpleField>
+	<SimpleField name="Period_cy" type="string"></SimpleField>
+	<SimpleField name="SiteType" type="string"></SimpleField>
+	<SimpleField name="SiteType_c" type="string"></SimpleField>
+	<SimpleField name="UnitaryAut" type="string"></SimpleField>
+	<SimpleField name="UnitaryAu0" type="string"></SimpleField>
+	<SimpleField name="Community" type="string"></SimpleField>
+	<SimpleField name="Report" type="string"></SimpleField>
+	<SimpleField name="easting" type="int"></SimpleField>
+	<SimpleField name="northing" type="int"></SimpleField>
+</Schema>
+<Folder><name>centroids</name>
+  <Placemark>
+	<name>Pennard Castle &amp; Church</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3757</SimpleData>
+		<SimpleData name="SAMNumber">GM044</SimpleData>
+		<SimpleData name="Name_cy">Pennard Castle &amp; Church</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Swansea</SimpleData>
+		<SimpleData name="UnitaryAu0">Abertawe</SimpleData>
+		<SimpleData name="Community">Pennard</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3757</SimpleData>
+		<SimpleData name="easting">254435</SimpleData>
+		<SimpleData name="northing">188499</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.102059175094,51.5765040273033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Original Swansea Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3738</SimpleData>
+		<SimpleData name="SAMNumber">GM441</SimpleData>
+		<SimpleData name="Name_cy">Original Swansea Castle</SimpleData>
+		<SimpleData name="Designatio">1990/03/14</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Swansea</SimpleData>
+		<SimpleData name="UnitaryAu0">Abertawe</SimpleData>
+		<SimpleData name="Community">Castle</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3738</SimpleData>
+		<SimpleData name="easting">265699</SimpleData>
+		<SimpleData name="northing">193157</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.94138391048296,51.6211602269199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Penrice Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3762</SimpleData>
+		<SimpleData name="SAMNumber">GM047</SimpleData>
+		<SimpleData name="Name_cy">Penrice Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Swansea</SimpleData>
+		<SimpleData name="UnitaryAu0">Abertawe</SimpleData>
+		<SimpleData name="Community">Penrice</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3762</SimpleData>
+		<SimpleData name="easting">249701</SimpleData>
+		<SimpleData name="northing">188494</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.17031413046888,51.5752183575193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Swansea Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3759</SimpleData>
+		<SimpleData name="SAMNumber">GM012</SimpleData>
+		<SimpleData name="Name_cy">Swansea Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Swansea</SimpleData>
+		<SimpleData name="UnitaryAu0">Abertawe</SimpleData>
+		<SimpleData name="Community">Castle</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3759</SimpleData>
+		<SimpleData name="easting">265718</SimpleData>
+		<SimpleData name="northing">193085</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.94109058368337,51.6205190686892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Flint Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3806</SimpleData>
+		<SimpleData name="SAMNumber">FL003</SimpleData>
+		<SimpleData name="Name_cy">Flint Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Flintshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir y Fflint</SimpleData>
+		<SimpleData name="Community">Flint</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3806</SimpleData>
+		<SimpleData name="easting">324694</SimpleData>
+		<SimpleData name="northing">373286</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.13013691708441,53.2512204300987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ruthin Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3804</SimpleData>
+		<SimpleData name="SAMNumber">DE022</SimpleData>
+		<SimpleData name="Name_cy">Ruthin Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Denbighshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Ddinbych</SimpleData>
+		<SimpleData name="Community">Ruthin</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3804</SimpleData>
+		<SimpleData name="easting">312294</SimpleData>
+		<SimpleData name="northing">358026</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.31173533254862,53.1121772805674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Newcastle Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">4354</SimpleData>
+		<SimpleData name="SAMNumber">GM063</SimpleData>
+		<SimpleData name="Name_cy">Newcastle Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Bridgend</SimpleData>
+		<SimpleData name="UnitaryAu0">Pen-y-bont ar Ogwr</SimpleData>
+		<SimpleData name="Community">Bridgend</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=4354</SimpleData>
+		<SimpleData name="easting">290239</SimpleData>
+		<SimpleData name="northing">180078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.58297885270484,51.5089398760937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pencoed Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3884</SimpleData>
+		<SimpleData name="SAMNumber">MM274</SimpleData>
+		<SimpleData name="Name_cy">Pencoed Castle</SimpleData>
+		<SimpleData name="Designatio">1998/09/08</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Newport</SimpleData>
+		<SimpleData name="UnitaryAu0">Casnewydd</SimpleData>
+		<SimpleData name="Community">Langstone</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3884</SimpleData>
+		<SimpleData name="easting">340603</SimpleData>
+		<SimpleData name="northing">189404</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.8589707817784,51.6003316853228</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dyserth Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">640</SimpleData>
+		<SimpleData name="SAMNumber">FL130</SimpleData>
+		<SimpleData name="Name_cy">Dyserth Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Denbighshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Ddinbych</SimpleData>
+		<SimpleData name="Community">Dyserth</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=640</SimpleData>
+		<SimpleData name="easting">306034</SimpleData>
+		<SimpleData name="northing">379922</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.41167580421217,53.3078705890576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morlais Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">636</SimpleData>
+		<SimpleData name="SAMNumber">GM028</SimpleData>
+		<SimpleData name="Name_cy">Morlais Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Merthyr Tydfil</SimpleData>
+		<SimpleData name="UnitaryAu0">Merthyr Tudful</SimpleData>
+		<SimpleData name="Community">Pant</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=636</SimpleData>
+		<SimpleData name="easting">304958</SimpleData>
+		<SimpleData name="northing">209585</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.37897967223389,51.7768304507293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Old Dynefwr Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">678</SimpleData>
+		<SimpleData name="SAMNumber">CM029</SimpleData>
+		<SimpleData name="Name_cy">Old Dynefwr Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Carmarthenshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Gaerfyrddin</SimpleData>
+		<SimpleData name="Community">Llandeilo</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=678</SimpleData>
+		<SimpleData name="easting">261203</SimpleData>
+		<SimpleData name="northing">221739</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.01770831290255,51.8768914321623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Newcastle Emlyn Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">671</SimpleData>
+		<SimpleData name="SAMNumber">CM085</SimpleData>
+		<SimpleData name="Name_cy">Newcastle Emlyn Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Carmarthenshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Gaerfyrddin</SimpleData>
+		<SimpleData name="Community">Newcastle Emlyn</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=671</SimpleData>
+		<SimpleData name="easting">231141</SimpleData>
+		<SimpleData name="northing">240720</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.46335292974133,52.0391008388441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aberystwyth Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">764</SimpleData>
+		<SimpleData name="SAMNumber">CD008</SimpleData>
+		<SimpleData name="Name_cy">Aberystwyth Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Ceredigion</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Ceredigion</SimpleData>
+		<SimpleData name="Community">Aberystwyth</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=764</SimpleData>
+		<SimpleData name="easting">257958</SimpleData>
+		<SimpleData name="northing">281522</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.08982312049094,52.4132051585099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castell Allt Craig-Arth</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">758</SimpleData>
+		<SimpleData name="SAMNumber">CD092</SimpleData>
+		<SimpleData name="Name_cy">Castell Allt Craig-Arth</SimpleData>
+		<SimpleData name="Designatio">1949/09/16</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Ceredigion</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Ceredigion</SimpleData>
+		<SimpleData name="Community">Dyffryn Arth</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=758</SimpleData>
+		<SimpleData name="easting">249481</SimpleData>
+		<SimpleData name="northing">262373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.20578082368695,52.2389092584067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dinas Powis Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">1025</SimpleData>
+		<SimpleData name="SAMNumber">GM021</SimpleData>
+		<SimpleData name="Name_cy">Dinas Powis Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Vale of Glamorgan</SimpleData>
+		<SimpleData name="UnitaryAu0">Bro Morgannwg</SimpleData>
+		<SimpleData name="Community">Dinas Powys</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=1025</SimpleData>
+		<SimpleData name="easting">315275</SimpleData>
+		<SimpleData name="northing">171637</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.2203046286696,51.4373736932306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castell Blaenllynfi</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">808</SimpleData>
+		<SimpleData name="SAMNumber">BR009</SimpleData>
+		<SimpleData name="Name_cy">Castell Blaenllynfi</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Powys</SimpleData>
+		<SimpleData name="UnitaryAu0">Powys</SimpleData>
+		<SimpleData name="Community">Llanfihangel Cwmdu with Bwlch and Cathedine</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=808</SimpleData>
+		<SimpleData name="easting">314495</SimpleData>
+		<SimpleData name="northing">222890</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.24408021219199,51.8979748248019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bronllys Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">1705</SimpleData>
+		<SimpleData name="SAMNumber">BR008</SimpleData>
+		<SimpleData name="Name_cy">Bronllys Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Powys</SimpleData>
+		<SimpleData name="UnitaryAu0">Powys</SimpleData>
+		<SimpleData name="Community">Bronllys</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=1705</SimpleData>
+		<SimpleData name="easting">314928</SimpleData>
+		<SimpleData name="northing">234726</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.24072613600324,52.0044282189785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Llansteffan Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">1439</SimpleData>
+		<SimpleData name="SAMNumber">CM004</SimpleData>
+		<SimpleData name="Name_cy">Llansteffan Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Carmarthenshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Gaerfyrddin</SimpleData>
+		<SimpleData name="Community">Llansteffan</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=1439</SimpleData>
+		<SimpleData name="easting">235112</SimpleData>
+		<SimpleData name="northing">210132</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.39087934761835,51.7655207239885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Llanddew Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">1724</SimpleData>
+		<SimpleData name="SAMNumber">BR057</SimpleData>
+		<SimpleData name="Name_cy">Llanddew Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Powys</SimpleData>
+		<SimpleData name="UnitaryAu0">Powys</SimpleData>
+		<SimpleData name="Community">Llanddew</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=1724</SimpleData>
+		<SimpleData name="easting">305544</SimpleData>
+		<SimpleData name="northing">230803</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.37630076808456,51.9676458577767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tretower Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">1708</SimpleData>
+		<SimpleData name="SAMNumber">BR014</SimpleData>
+		<SimpleData name="Name_cy">Tretower Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Powys</SimpleData>
+		<SimpleData name="UnitaryAu0">Powys</SimpleData>
+		<SimpleData name="Community">Llanfihangel Cwmdu with Bwlch and Cathedine</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=1708</SimpleData>
+		<SimpleData name="easting">318494</SimpleData>
+		<SimpleData name="northing">221261</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.18559627346001,51.8839315166231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crickhowell Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">1754</SimpleData>
+		<SimpleData name="SAMNumber">BR111</SimpleData>
+		<SimpleData name="Name_cy">Crickhowell Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Powys</SimpleData>
+		<SimpleData name="UnitaryAu0">Powys</SimpleData>
+		<SimpleData name="Community">Crickhowell</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=1754</SimpleData>
+		<SimpleData name="easting">321748</SimpleData>
+		<SimpleData name="northing">218240</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.13763649748369,51.8572352452737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hay Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">1734</SimpleData>
+		<SimpleData name="SAMNumber">BR076</SimpleData>
+		<SimpleData name="Name_cy">Hay Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Powys</SimpleData>
+		<SimpleData name="UnitaryAu0">Powys</SimpleData>
+		<SimpleData name="Community">Hay</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=1734</SimpleData>
+		<SimpleData name="easting">322942</SimpleData>
+		<SimpleData name="northing">242301</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.12571910144397,52.073694203115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castell Gwallter</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">1826</SimpleData>
+		<SimpleData name="SAMNumber">CD005</SimpleData>
+		<SimpleData name="Name_cy">Castell Gwallter</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Ceredigion</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Ceredigion</SimpleData>
+		<SimpleData name="Community">Geneu'r Glyn</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=1826</SimpleData>
+		<SimpleData name="easting">262201</SimpleData>
+		<SimpleData name="northing">286781</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.02965584931041,52.4615391853644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castell-Du, Sennybridge</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">1761</SimpleData>
+		<SimpleData name="SAMNumber">BR126</SimpleData>
+		<SimpleData name="Name_cy">Castell-Du, Sennybridge</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Powys</SimpleData>
+		<SimpleData name="UnitaryAu0">Powys</SimpleData>
+		<SimpleData name="Community">Maescar</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=1761</SimpleData>
+		<SimpleData name="easting">291971</SimpleData>
+		<SimpleData name="northing">228400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.57304658947786,51.943573844864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Weobley Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">137</SimpleData>
+		<SimpleData name="SAMNumber">GM010</SimpleData>
+		<SimpleData name="Name_cy">Weobley Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Swansea</SimpleData>
+		<SimpleData name="UnitaryAu0">Abertawe</SimpleData>
+		<SimpleData name="Community">Llanrhidian Lower</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=137</SimpleData>
+		<SimpleData name="easting">247820</SimpleData>
+		<SimpleData name="northing">192729</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.19927949765973,51.6127670928399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Llandough Castle, Remains of Hall</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">171</SimpleData>
+		<SimpleData name="SAMNumber">GM337</SimpleData>
+		<SimpleData name="Name_cy">Llandough Castle, Remains of Hall</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Vale of Glamorgan</SimpleData>
+		<SimpleData name="UnitaryAu0">Bro Morgannwg</SimpleData>
+		<SimpleData name="Community">Llanfair</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=171</SimpleData>
+		<SimpleData name="easting">299500</SimpleData>
+		<SimpleData name="northing">172993</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.4475722310524,51.4469743049954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Loughor Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">142</SimpleData>
+		<SimpleData name="SAMNumber">GM046</SimpleData>
+		<SimpleData name="Name_cy">Loughor Castle</SimpleData>
+		<SimpleData name="Designatio">1934/01/03</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Swansea</SimpleData>
+		<SimpleData name="UnitaryAu0">Abertawe</SimpleData>
+		<SimpleData name="Community">Llwchwr</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=142</SimpleData>
+		<SimpleData name="easting">256434</SimpleData>
+		<SimpleData name="northing">197980</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.07711923207855,51.662211787951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Criccieth Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">294</SimpleData>
+		<SimpleData name="SAMNumber">CN015</SimpleData>
+		<SimpleData name="Name_cy">Criccieth Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Gwynedd</SimpleData>
+		<SimpleData name="UnitaryAu0">Gwynedd</SimpleData>
+		<SimpleData name="Community">Criccieth</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=294</SimpleData>
+		<SimpleData name="easting">249991</SimpleData>
+		<SimpleData name="northing">337719</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.23246003817871,52.9158853511549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rhuddlan Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">194</SimpleData>
+		<SimpleData name="SAMNumber">FL004</SimpleData>
+		<SimpleData name="Name_cy">Rhuddlan Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Denbighshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Ddinbych</SimpleData>
+		<SimpleData name="Community">Rhuddlan</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=194</SimpleData>
+		<SimpleData name="easting">302437</SimpleData>
+		<SimpleData name="northing">377910</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.46503190472603,53.2891415323107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Carmarthen Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">331</SimpleData>
+		<SimpleData name="SAMNumber">CM008</SimpleData>
+		<SimpleData name="Name_cy">Carmarthen Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Carmarthenshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Gaerfyrddin</SimpleData>
+		<SimpleData name="Community">Carmarthen</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=331</SimpleData>
+		<SimpleData name="easting">241294</SimpleData>
+		<SimpleData name="northing">219972</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.3058748870925,51.8557117708864</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Plas Baglan</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">318</SimpleData>
+		<SimpleData name="SAMNumber">GM358</SimpleData>
+		<SimpleData name="Name_cy">Plas Baglan</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Neath Port Talbot</SimpleData>
+		<SimpleData name="UnitaryAu0">Castell-nedd Port Talbot</SimpleData>
+		<SimpleData name="Community">Baglan</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=318</SimpleData>
+		<SimpleData name="easting">275620</SimpleData>
+		<SimpleData name="northing">192296</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.79785933199781,51.6157079104283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dryslwyn Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">445</SimpleData>
+		<SimpleData name="SAMNumber">CM030</SimpleData>
+		<SimpleData name="Name_cy">Dryslwyn Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Carmarthenshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Gaerfyrddin</SimpleData>
+		<SimpleData name="Community">Llangathen</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=445</SimpleData>
+		<SimpleData name="easting">255436</SimpleData>
+		<SimpleData name="northing">220365</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.10084686781263,51.8630879584524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Llangibby Castle (Castell Tregrug)</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">365</SimpleData>
+		<SimpleData name="SAMNumber">MM109</SimpleData>
+		<SimpleData name="Name_cy">Llangibby Castle (Castell Tregrug)</SimpleData>
+		<SimpleData name="Designatio">1950/09/05</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Monmouthshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Fynwy</SimpleData>
+		<SimpleData name="Community">Llangybi</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=365</SimpleData>
+		<SimpleData name="easting">336397</SimpleData>
+		<SimpleData name="northing">197408</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.92114771604673,51.6718254492275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Narberth Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">478</SimpleData>
+		<SimpleData name="SAMNumber">PE040</SimpleData>
+		<SimpleData name="Name_cy">Narberth Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Pembrokeshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Benfro</SimpleData>
+		<SimpleData name="Community">Narberth</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=478</SimpleData>
+		<SimpleData name="easting">210985</SimpleData>
+		<SimpleData name="northing">214394</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.74242184315679,51.7961672238946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cilgerran Castle Additional Area</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">450</SimpleData>
+		<SimpleData name="SAMNumber">PE384</SimpleData>
+		<SimpleData name="Name_cy">Cilgerran Castle Additional Area</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Pembrokeshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Benfro</SimpleData>
+		<SimpleData name="Community">Cilgerran</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=450</SimpleData>
+		<SimpleData name="easting">219466</SimpleData>
+		<SimpleData name="northing">243078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.6346314976033,52.0565973470484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dinham Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">574</SimpleData>
+		<SimpleData name="SAMNumber">MM153</SimpleData>
+		<SimpleData name="Name_cy">Dinham Castle</SimpleData>
+		<SimpleData name="Designatio">1958/03/06</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Monmouthshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Fynwy</SimpleData>
+		<SimpleData name="Community">Caerwent</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=574</SimpleData>
+		<SimpleData name="easting">348032</SimpleData>
+		<SimpleData name="northing">192335</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.7521536165041,51.6274181336888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Llawhaden Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">482</SimpleData>
+		<SimpleData name="SAMNumber">PE024</SimpleData>
+		<SimpleData name="Designatio">1981/07/22</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Pembrokeshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Benfro</SimpleData>
+		<SimpleData name="Community">Llawhaden</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=482</SimpleData>
+		<SimpleData name="easting">207292</SimpleData>
+		<SimpleData name="northing">217452</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.79762061691754,51.8223717192024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Llantrisant Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">635</SimpleData>
+		<SimpleData name="SAMNumber">GM074</SimpleData>
+		<SimpleData name="Name_cy">Llantrisant Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Rhondda Cynon Taff</SimpleData>
+		<SimpleData name="UnitaryAu0">Rhondda Cynon Taf</SimpleData>
+		<SimpleData name="Community">Llantrisant</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=635</SimpleData>
+		<SimpleData name="easting">304754</SimpleData>
+		<SimpleData name="northing">183412</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.37480213589084,51.5415369590483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Skenfrith Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">586</SimpleData>
+		<SimpleData name="SAMNumber">MM088</SimpleData>
+		<SimpleData name="Name_cy">Skenfrith Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Monmouthshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Fynwy</SimpleData>
+		<SimpleData name="Community">Llangattock-Vibon-Avel</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=586</SimpleData>
+		<SimpleData name="easting">345679</SimpleData>
+		<SimpleData name="northing">220309</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.79053005163045,51.8786895392771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castell Meredydd</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2410</SimpleData>
+		<SimpleData name="SAMNumber">MM186</SimpleData>
+		<SimpleData name="Name_cy">Castell Meredydd</SimpleData>
+		<SimpleData name="Designatio">1973/02/14</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Newport</SimpleData>
+		<SimpleData name="UnitaryAu0">Casnewydd</SimpleData>
+		<SimpleData name="Community">Graig</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2410</SimpleData>
+		<SimpleData name="easting">322542</SimpleData>
+		<SimpleData name="northing">188739</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.11953386083848,51.5921507850012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Monmouth Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2393</SimpleData>
+		<SimpleData name="SAMNumber">MM159</SimpleData>
+		<SimpleData name="Name_cy">Monmouth Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Monmouthshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Fynwy</SimpleData>
+		<SimpleData name="Community">Monmouth</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2393</SimpleData>
+		<SimpleData name="easting">350678</SimpleData>
+		<SimpleData name="northing">212895</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.71685149756103,51.8125007163005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castell y Bere</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2458</SimpleData>
+		<SimpleData name="SAMNumber">ME023</SimpleData>
+		<SimpleData name="Name_cy">Castell y Bere</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Gwynedd</SimpleData>
+		<SimpleData name="UnitaryAu0">Gwynedd</SimpleData>
+		<SimpleData name="Community">Llanfihangel-y-Pennant</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2458</SimpleData>
+		<SimpleData name="easting">266779</SimpleData>
+		<SimpleData name="northing">308550</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.97107119379102,52.658254772057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dolbadarn Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2428</SimpleData>
+		<SimpleData name="SAMNumber">CN066</SimpleData>
+		<SimpleData name="Name_cy">Dolbadarn Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Gwynedd</SimpleData>
+		<SimpleData name="UnitaryAu0">Gwynedd</SimpleData>
+		<SimpleData name="Community">Llanberis</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2428</SimpleData>
+		<SimpleData name="easting">258591</SimpleData>
+		<SimpleData name="northing">359806</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.11433644083994,53.1166314253976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rhayader Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2610</SimpleData>
+		<SimpleData name="SAMNumber">RD132</SimpleData>
+		<SimpleData name="Name_cy">Rhayader Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Powys</SimpleData>
+		<SimpleData name="UnitaryAu0">Powys</SimpleData>
+		<SimpleData name="Community">Rhayader</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2610</SimpleData>
+		<SimpleData name="easting">296823</SimpleData>
+		<SimpleData name="northing">268033</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.51450623925259,52.3006997995709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harlech Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2464</SimpleData>
+		<SimpleData name="SAMNumber">ME044</SimpleData>
+		<SimpleData name="Name_cy">Harlech Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Gwynedd</SimpleData>
+		<SimpleData name="UnitaryAu0">Gwynedd</SimpleData>
+		<SimpleData name="Community">Harlech</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2464</SimpleData>
+		<SimpleData name="easting">258099</SimpleData>
+		<SimpleData name="northing">331277</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.10915814869844,52.8602219650396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manorbier Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2687</SimpleData>
+		<SimpleData name="SAMNumber">PE004</SimpleData>
+		<SimpleData name="Name_cy">Manorbier Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Pembrokeshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Benfro</SimpleData>
+		<SimpleData name="Community">Manorbier</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2687</SimpleData>
+		<SimpleData name="easting">206411</SimpleData>
+		<SimpleData name="northing">197809</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.79945649501212,51.6456696030781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mathrafal Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2622</SimpleData>
+		<SimpleData name="SAMNumber">MG044</SimpleData>
+		<SimpleData name="Name_cy">Mathrafal Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Powys</SimpleData>
+		<SimpleData name="UnitaryAu0">Powys</SimpleData>
+		<SimpleData name="Community">Llangyniew</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2622</SimpleData>
+		<SimpleData name="easting">313159</SimpleData>
+		<SimpleData name="northing">310790</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.28618401489796,52.6878074991688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kidwelly Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2750</SimpleData>
+		<SimpleData name="SAMNumber">CM002</SimpleData>
+		<SimpleData name="Name_cy">Kidwelly Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Carmarthenshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Gaerfyrddin</SimpleData>
+		<SimpleData name="Community">Kidwelly</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2750</SimpleData>
+		<SimpleData name="easting">240915</SimpleData>
+		<SimpleData name="northing">207096</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.30547277391361,51.7399292328189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Haverfordwest Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2714</SimpleData>
+		<SimpleData name="SAMNumber">PE366</SimpleData>
+		<SimpleData name="Name_cy">Haverfordwest Castle</SimpleData>
+		<SimpleData name="Designatio">1986/02/20</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Pembrokeshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Benfro</SimpleData>
+		<SimpleData name="Community">Haverfordwest</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2714</SimpleData>
+		<SimpleData name="easting">195310</SimpleData>
+		<SimpleData name="northing">215735</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.97021542018409,51.8026954377376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caerphilly Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2848</SimpleData>
+		<SimpleData name="SAMNumber">GM002</SimpleData>
+		<SimpleData name="Name_cy">Caerphilly Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Caerphilly</SimpleData>
+		<SimpleData name="UnitaryAu0">Caerffili</SimpleData>
+		<SimpleData name="Community">Caerphilly</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2848</SimpleData>
+		<SimpleData name="easting">315483</SimpleData>
+		<SimpleData name="northing">187098</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.22101728281368,51.5763859180398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ewloe Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2827</SimpleData>
+		<SimpleData name="SAMNumber">FL002</SimpleData>
+		<SimpleData name="Name_cy">Ewloe Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Flintshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir y Fflint</SimpleData>
+		<SimpleData name="Community">Hawarden</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2827</SimpleData>
+		<SimpleData name="easting">328806</SimpleData>
+		<SimpleData name="northing">367519</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.06721545996844,53.199958683375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Neath Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2855</SimpleData>
+		<SimpleData name="SAMNumber">GM039</SimpleData>
+		<SimpleData name="Name_cy">Neath Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Neath Port Talbot</SimpleData>
+		<SimpleData name="UnitaryAu0">Castell-nedd Port Talbot</SimpleData>
+		<SimpleData name="Community">Neath</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2855</SimpleData>
+		<SimpleData name="easting">275364</SimpleData>
+		<SimpleData name="northing">197801</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.80350795178768,51.6651187221993</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coity Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2853</SimpleData>
+		<SimpleData name="SAMNumber">GM004</SimpleData>
+		<SimpleData name="Name_cy">Coity Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Bridgend</SimpleData>
+		<SimpleData name="UnitaryAu0">Pen-y-bont ar Ogwr</SimpleData>
+		<SimpleData name="Community">Coity Higher</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2853</SimpleData>
+		<SimpleData name="easting">292323</SimpleData>
+		<SimpleData name="northing">181500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.55339850214079,51.5221192597728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oystermouth Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2860</SimpleData>
+		<SimpleData name="SAMNumber">GM007</SimpleData>
+		<SimpleData name="Name_cy">Oystermouth Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Swansea</SimpleData>
+		<SimpleData name="UnitaryAu0">Abertawe</SimpleData>
+		<SimpleData name="Community">Mumbles</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2860</SimpleData>
+		<SimpleData name="easting">261325</SimpleData>
+		<SimpleData name="northing">188367</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.00263164126517,51.5770622800992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oxwich Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2856</SimpleData>
+		<SimpleData name="SAMNumber">GM043</SimpleData>
+		<SimpleData name="Name_cy">Oxwich Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Swansea</SimpleData>
+		<SimpleData name="UnitaryAu0">Abertawe</SimpleData>
+		<SimpleData name="Community">Penrice</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2856</SimpleData>
+		<SimpleData name="easting">249776</SimpleData>
+		<SimpleData name="northing">186298</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.16828755174772,51.5555082371839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aberedw Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">1916</SimpleData>
+		<SimpleData name="SAMNumber">RD029</SimpleData>
+		<SimpleData name="Name_cy">Aberedw Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Powys</SimpleData>
+		<SimpleData name="UnitaryAu0">Powys</SimpleData>
+		<SimpleData name="Community">Aberedw</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=1916</SimpleData>
+		<SimpleData name="easting">307643</SimpleData>
+		<SimpleData name="northing">247395</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.35025645763193,52.1171299733309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cardigan Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">1885</SimpleData>
+		<SimpleData name="SAMNumber">CD123</SimpleData>
+		<SimpleData name="Name_cy">Cardigan Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Ceredigion</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Ceredigion</SimpleData>
+		<SimpleData name="Community">Cardigan</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=1885</SimpleData>
+		<SimpleData name="easting">217791</SimpleData>
+		<SimpleData name="northing">245917</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.66055126120854,52.0815461315212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Montgomery Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">1976</SimpleData>
+		<SimpleData name="SAMNumber">MG022</SimpleData>
+		<SimpleData name="Name_cy">Montgomery Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Powys</SimpleData>
+		<SimpleData name="UnitaryAu0">Powys</SimpleData>
+		<SimpleData name="Community">Montgomery</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=1976</SimpleData>
+		<SimpleData name="easting">322129</SimpleData>
+		<SimpleData name="northing">296777</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.15020121910852,52.5632270195807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cnwclas Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">1938</SimpleData>
+		<SimpleData name="SAMNumber">RD085</SimpleData>
+		<SimpleData name="Name_cy">Cnwclas Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Powys</SimpleData>
+		<SimpleData name="UnitaryAu0">Powys</SimpleData>
+		<SimpleData name="Community">Beguildy</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=1938</SimpleData>
+		<SimpleData name="easting">324996</SimpleData>
+		<SimpleData name="northing">274521</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.10290428758937,52.3635900957705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Llandovery Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2095</SimpleData>
+		<SimpleData name="SAMNumber">CM015</SimpleData>
+		<SimpleData name="Name_cy">Llandovery Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Carmarthenshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Gaerfyrddin</SimpleData>
+		<SimpleData name="Community">Llandovery</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2095</SimpleData>
+		<SimpleData name="easting">276767</SimpleData>
+		<SimpleData name="northing">234214</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.7962185189216,51.9926575554101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tenby Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2037</SimpleData>
+		<SimpleData name="SAMNumber">PE163</SimpleData>
+		<SimpleData name="Name_cy">Tenby Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Pembrokeshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Benfro</SimpleData>
+		<SimpleData name="Community">Tenby</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2037</SimpleData>
+		<SimpleData name="easting">213770</SimpleData>
+		<SimpleData name="northing">200521</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.69466236900892,51.6725055677141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ogmore Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2234</SimpleData>
+		<SimpleData name="SAMNumber">GM037</SimpleData>
+		<SimpleData name="Name_cy">Ogmore Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Vale of Glamorgan</SimpleData>
+		<SimpleData name="UnitaryAu0">Bro Morgannwg</SimpleData>
+		<SimpleData name="Community">St. Bride's Major</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2234</SimpleData>
+		<SimpleData name="easting">288186</SimpleData>
+		<SimpleData name="northing">176960</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.61155747875096,51.4805089171955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hen Blas Castle Site</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2200</SimpleData>
+		<SimpleData name="SAMNumber">FL062</SimpleData>
+		<SimpleData name="Name_cy">Hen Blas Castle Site</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Flintshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir y Fflint</SimpleData>
+		<SimpleData name="Community">Bagillt</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2200</SimpleData>
+		<SimpleData name="easting">322138</SimpleData>
+		<SimpleData name="northing">373436</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.16846055403442,53.2522041298959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castell Dinas Bran</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2300</SimpleData>
+		<SimpleData name="SAMNumber">DE021</SimpleData>
+		<SimpleData name="Name_cy">Castell Dinas Bran</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Denbighshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Ddinbych</SimpleData>
+		<SimpleData name="Community">Llangollen</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2300</SimpleData>
+		<SimpleData name="easting">322330</SimpleData>
+		<SimpleData name="northing">343037</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.15822199034539,52.9790290565731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kenfig Castle &amp; Medieval Town</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2235</SimpleData>
+		<SimpleData name="SAMNumber">GM042</SimpleData>
+		<SimpleData name="Name_cy">Kenfig Castle &amp; Medieval Town</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Bridgend</SimpleData>
+		<SimpleData name="UnitaryAu0">Pen-y-bont ar Ogwr</SimpleData>
+		<SimpleData name="Community">Cynffig</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2235</SimpleData>
+		<SimpleData name="easting">280103</SimpleData>
+		<SimpleData name="northing">182564</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.72980692851505,51.5292149995623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grosmont Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2343</SimpleData>
+		<SimpleData name="SAMNumber">MM007</SimpleData>
+		<SimpleData name="Name_cy">Grosmont Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Monmouthshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Fynwy</SimpleData>
+		<SimpleData name="Community">Grosmont</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2343</SimpleData>
+		<SimpleData name="easting">340556</SimpleData>
+		<SimpleData name="northing">224452</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.86565889030515,51.9154124256186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Raglan Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2342</SimpleData>
+		<SimpleData name="SAMNumber">MM005</SimpleData>
+		<SimpleData name="Name_cy">Raglan Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Monmouthshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Fynwy</SimpleData>
+		<SimpleData name="Community">Raglan</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2342</SimpleData>
+		<SimpleData name="easting">341388</SimpleData>
+		<SimpleData name="northing">208266</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.8508089624252,51.769989082865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Llanvair Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2351</SimpleData>
+		<SimpleData name="SAMNumber">MM047</SimpleData>
+		<SimpleData name="Name_cy">Llanvair Castle</SimpleData>
+		<SimpleData name="Designatio">1933/07/07</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Monmouthshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Fynwy</SimpleData>
+		<SimpleData name="Community">Caerwent</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2351</SimpleData>
+		<SimpleData name="easting">344577</SimpleData>
+		<SimpleData name="northing">192414</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.80208008899051,51.6277961846338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Newport Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2344</SimpleData>
+		<SimpleData name="SAMNumber">MM009</SimpleData>
+		<SimpleData name="Name_cy">Newport Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Newport</SimpleData>
+		<SimpleData name="UnitaryAu0">Casnewydd</SimpleData>
+		<SimpleData name="Community">Stow Hill</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2344</SimpleData>
+		<SimpleData name="easting">331161</SimpleData>
+		<SimpleData name="northing">188461</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.99508612864647,51.5907746478387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Llanvaches Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2373</SimpleData>
+		<SimpleData name="SAMNumber">MM129</SimpleData>
+		<SimpleData name="Name_cy">Llanvaches Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Newport</SimpleData>
+		<SimpleData name="UnitaryAu0">Casnewydd</SimpleData>
+		<SimpleData name="Community">Llanvaches</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2373</SimpleData>
+		<SimpleData name="easting">343368</SimpleData>
+		<SimpleData name="northing">192053</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.8194766246399,51.6244353122504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caldicot Castle (unoccupied parts)</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2353</SimpleData>
+		<SimpleData name="SAMNumber">MM050</SimpleData>
+		<SimpleData name="Name_cy">Caldicot Castle (unoccupied parts)</SimpleData>
+		<SimpleData name="Designatio">1950/03/22</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Monmouthshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Fynwy</SimpleData>
+		<SimpleData name="Community">Caldicot</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2353</SimpleData>
+		<SimpleData name="easting">348607</SimpleData>
+		<SimpleData name="northing">188521</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.74329450387733,51.5931838044734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beaumaris Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3319</SimpleData>
+		<SimpleData name="SAMNumber">AN001</SimpleData>
+		<SimpleData name="Name_cy">Beaumaris Castle</SimpleData>
+		<SimpleData name="Designatio">1925/11/05</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Isle of Anglesey</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Ynys Mon</SimpleData>
+		<SimpleData name="Community">Beaumaris</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3319</SimpleData>
+		<SimpleData name="easting">260712</SimpleData>
+		<SimpleData name="northing">376238</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.08982933145975,53.2647924675748</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Carreg Cennen Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3300</SimpleData>
+		<SimpleData name="SAMNumber">CM001</SimpleData>
+		<SimpleData name="Name_cy">Carreg Cennen Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Carmarthenshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Gaerfyrddin</SimpleData>
+		<SimpleData name="Community">Cyngor Bro Dyffryn Cennen</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3300</SimpleData>
+		<SimpleData name="easting">266813</SimpleData>
+		<SimpleData name="northing">219100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.93525320847791,51.8545557566666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castell Coch</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3377</SimpleData>
+		<SimpleData name="SAMNumber">GM206</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Cardiff</SimpleData>
+		<SimpleData name="UnitaryAu0">Caerdydd</SimpleData>
+		<SimpleData name="Community">Tongwynlais</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3377</SimpleData>
+		<SimpleData name="easting">313082</SimpleData>
+		<SimpleData name="northing">182654</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.25455390189781,51.536071353443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Penmark Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3362</SimpleData>
+		<SimpleData name="SAMNumber">GM229</SimpleData>
+		<SimpleData name="Name_cy">Penmark Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Vale of Glamorgan</SimpleData>
+		<SimpleData name="UnitaryAu0">Bro Morgannwg</SimpleData>
+		<SimpleData name="Community">Rhoose</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3362</SimpleData>
+		<SimpleData name="easting">305859</SimpleData>
+		<SimpleData name="northing">168898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.35499689976325,51.4112568913513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Quintin's Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3389</SimpleData>
+		<SimpleData name="SAMNumber">GM094</SimpleData>
+		<SimpleData name="Name_cy">St Quintin's Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Vale of Glamorgan</SimpleData>
+		<SimpleData name="UnitaryAu0">Bro Morgannwg</SimpleData>
+		<SimpleData name="Community">Cowbridge with Llanblethian</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3389</SimpleData>
+		<SimpleData name="easting">298893</SimpleData>
+		<SimpleData name="northing">174181</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.45664352239923,51.4575472477609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castell Morgraig</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3381</SimpleData>
+		<SimpleData name="SAMNumber">GM031</SimpleData>
+		<SimpleData name="Designatio">1928/04/28</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Caerphilly</SimpleData>
+		<SimpleData name="UnitaryAu0">Caerffili</SimpleData>
+		<SimpleData name="Community">Caerphilly</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3381</SimpleData>
+		<SimpleData name="easting">316020</SimpleData>
+		<SimpleData name="northing">184368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.21261482280532,51.5519283578455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dolwyddelan Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3406</SimpleData>
+		<SimpleData name="SAMNumber">CN040</SimpleData>
+		<SimpleData name="Name_cy">Dolwyddelan Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Conwy</SimpleData>
+		<SimpleData name="UnitaryAu0">Conwy</SimpleData>
+		<SimpleData name="Community">Dolwyddelan</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3406</SimpleData>
+		<SimpleData name="easting">272178</SimpleData>
+		<SimpleData name="northing">352353</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.9084830133375,53.0531023824209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Deganwy Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3395</SimpleData>
+		<SimpleData name="SAMNumber">CN016</SimpleData>
+		<SimpleData name="Name_cy">Deganwy Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Conwy</SimpleData>
+		<SimpleData name="UnitaryAu0">Conwy</SimpleData>
+		<SimpleData name="Community">Conwy</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3395</SimpleData>
+		<SimpleData name="easting">278214</SimpleData>
+		<SimpleData name="northing">379440</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.82880864776776,53.2978761629844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caernarfon Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3417</SimpleData>
+		<SimpleData name="SAMNumber">CN079</SimpleData>
+		<SimpleData name="Name_cy">Caernarfon Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Gwynedd</SimpleData>
+		<SimpleData name="UnitaryAu0">Gwynedd</SimpleData>
+		<SimpleData name="Community">Caernarfon</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3417</SimpleData>
+		<SimpleData name="easting">247787</SimpleData>
+		<SimpleData name="northing">362663</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.27698381070791,53.1393131065704</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Conwy Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3411</SimpleData>
+		<SimpleData name="SAMNumber">CN004</SimpleData>
+		<SimpleData name="Name_cy">Conwy Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Conwy</SimpleData>
+		<SimpleData name="UnitaryAu0">Conwy</SimpleData>
+		<SimpleData name="Community">Conwy</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3411</SimpleData>
+		<SimpleData name="easting">278374</SimpleData>
+		<SimpleData name="northing">377460</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.82564829814951,53.2801251687638</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Penlle'r Castell</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3573</SimpleData>
+		<SimpleData name="SAMNumber">GM255</SimpleData>
+		<SimpleData name="Name_cy">Penlle'r Castell</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Swansea</SimpleData>
+		<SimpleData name="UnitaryAu0">Abertawe</SimpleData>
+		<SimpleData name="Community">Mawr</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3573</SimpleData>
+		<SimpleData name="easting">266537</SimpleData>
+		<SimpleData name="northing">209603</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.9355922622995,51.7691434569714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Newport Castle (Unoccupied parts)</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3553</SimpleData>
+		<SimpleData name="SAMNumber">PE087</SimpleData>
+		<SimpleData name="Name_cy">Newport Castle (Unoccupied parts)</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Pembrokeshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Benfro</SimpleData>
+		<SimpleData name="Community">Newport</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3553</SimpleData>
+		<SimpleData name="easting">205705</SimpleData>
+		<SimpleData name="northing">238865</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.8327000508473,52.0141031201706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Remains of Peterston Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3682</SimpleData>
+		<SimpleData name="SAMNumber">GM450</SimpleData>
+		<SimpleData name="Name_cy">Remains of Peterston Castle</SimpleData>
+		<SimpleData name="Designatio">1994/11/02</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Vale of Glamorgan</SimpleData>
+		<SimpleData name="UnitaryAu0">Bro Morgannwg</SimpleData>
+		<SimpleData name="Community">Peterston-super-Ely</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3682</SimpleData>
+		<SimpleData name="easting">308345</SimpleData>
+		<SimpleData name="northing">176391</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.32121130394778,51.4790282478586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ystrad-Meurig Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3588</SimpleData>
+		<SimpleData name="SAMNumber">CD032</SimpleData>
+		<SimpleData name="Name_cy">Ystrad-Meurig Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Ceredigion</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Ceredigion</SimpleData>
+		<SimpleData name="Community">Ystrad Meurig</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3588</SimpleData>
+		<SimpleData name="easting">270259</SimpleData>
+		<SimpleData name="northing">267519</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.90366749551298,52.2904412142106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castell Pen-yr-Allt</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3702</SimpleData>
+		<SimpleData name="SAMNumber">PE169</SimpleData>
+		<SimpleData name="Name_cy">Castell Pen-yr-Allt</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Pembrokeshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Benfro</SimpleData>
+		<SimpleData name="Community">Cilgerran</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3702</SimpleData>
+		<SimpleData name="easting">215784</SimpleData>
+		<SimpleData name="northing">242046</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.68772197267689,52.0461140918426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castell Tal-y-Fan</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3683</SimpleData>
+		<SimpleData name="SAMNumber">GM421</SimpleData>
+		<SimpleData name="Name_cy">Castell Tal-y-Fan</SimpleData>
+		<SimpleData name="Designatio">1982/04/28</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Vale of Glamorgan</SimpleData>
+		<SimpleData name="UnitaryAu0">Bro Morgannwg</SimpleData>
+		<SimpleData name="Community">Welsh St. Donats</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3683</SimpleData>
+		<SimpleData name="easting">302098</SimpleData>
+		<SimpleData name="northing">177188</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.41135957474228,51.4851427880844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Holt Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2940</SimpleData>
+		<SimpleData name="SAMNumber">DE106</SimpleData>
+		<SimpleData name="Name_cy">Holt Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Wrexham</SimpleData>
+		<SimpleData name="UnitaryAu0">Wrecsam</SimpleData>
+		<SimpleData name="Community">Holt</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2940</SimpleData>
+		<SimpleData name="easting">341124</SimpleData>
+		<SimpleData name="northing">353769</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.88031474916648,53.0778894240285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Llangynwyd Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2864</SimpleData>
+		<SimpleData name="SAMNumber">GM085</SimpleData>
+		<SimpleData name="Name_cy">Llangynwyd Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Bridgend</SimpleData>
+		<SimpleData name="UnitaryAu0">Pen-y-bont ar Ogwr</SimpleData>
+		<SimpleData name="Community">Llangynwyd Middle</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2864</SimpleData>
+		<SimpleData name="easting">285137</SimpleData>
+		<SimpleData name="northing">188692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6592816801231,51.585342357834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Usk Castle (Unoccupied Parts)</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2959</SimpleData>
+		<SimpleData name="SAMNumber">MM012</SimpleData>
+		<SimpleData name="Name_cy">Usk Castle (Unoccupied Parts)</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Monmouthshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Fynwy</SimpleData>
+		<SimpleData name="Community">Usk</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2959</SimpleData>
+		<SimpleData name="easting">337684</SimpleData>
+		<SimpleData name="northing">201106</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.90320298407114,51.7052138781964</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>White Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2957</SimpleData>
+		<SimpleData name="SAMNumber">MM006</SimpleData>
+		<SimpleData name="Name_cy">White Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Monmouthshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Fynwy</SimpleData>
+		<SimpleData name="Community">Llantilio Crossenny</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2957</SimpleData>
+		<SimpleData name="easting">337944</SimpleData>
+		<SimpleData name="northing">216773</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.90224848888581,51.8460921489935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Abergavenny Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2970</SimpleData>
+		<SimpleData name="SAMNumber">MM056</SimpleData>
+		<SimpleData name="Name_cy">Abergavenny Castle</SimpleData>
+		<SimpleData name="Designatio">1933/07/07</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Monmouthshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Fynwy</SimpleData>
+		<SimpleData name="Community">Abergavenny</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2970</SimpleData>
+		<SimpleData name="easting">329964</SimpleData>
+		<SimpleData name="northing">213941</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.01748803126496,51.8196886746807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cas Troggy Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2960</SimpleData>
+		<SimpleData name="SAMNumber">MM015</SimpleData>
+		<SimpleData name="Name_cy">Cas Troggy Castle</SimpleData>
+		<SimpleData name="Designatio">1926/01/11</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Monmouthshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Fynwy</SimpleData>
+		<SimpleData name="Community">Shirenewton</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2960</SimpleData>
+		<SimpleData name="easting">341503</SimpleData>
+		<SimpleData name="northing">195203</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.84695076434613,51.6525618631309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pembroke Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3013</SimpleData>
+		<SimpleData name="SAMNumber">PE005</SimpleData>
+		<SimpleData name="Name_cy">Pembroke Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Pembrokeshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Benfro</SimpleData>
+		<SimpleData name="Community">Pembroke</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3013</SimpleData>
+		<SimpleData name="easting">198173</SimpleData>
+		<SimpleData name="northing">201612</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.92055739095301,51.6769176487617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dolforwyn Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">2997</SimpleData>
+		<SimpleData name="SAMNumber">MG114</SimpleData>
+		<SimpleData name="Name_cy">Dolforwyn Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Powys</SimpleData>
+		<SimpleData name="UnitaryAu0">Powys</SimpleData>
+		<SimpleData name="Community">Llandyssil</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=2997</SimpleData>
+		<SimpleData name="easting">315166</SimpleData>
+		<SimpleData name="northing">295014</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.25243729122882,52.5463379768308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Laugharne Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3078</SimpleData>
+		<SimpleData name="SAMNumber">CM003</SimpleData>
+		<SimpleData name="Name_cy">Laugharne Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Carmarthenshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Gaerfyrddin</SimpleData>
+		<SimpleData name="Community">Laugharne Township</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3078</SimpleData>
+		<SimpleData name="easting">230214</SimpleData>
+		<SimpleData name="northing">210757</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.46208954750429,51.7696685791949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cilgerran Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3057</SimpleData>
+		<SimpleData name="SAMNumber">PE002</SimpleData>
+		<SimpleData name="Name_cy">Cilgerran Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Pembrokeshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Benfro</SimpleData>
+		<SimpleData name="Community">Cilgerran</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3057</SimpleData>
+		<SimpleData name="easting">219493</SimpleData>
+		<SimpleData name="northing">243117</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.63425861950212,52.056951330155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Caergwrle Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3086</SimpleData>
+		<SimpleData name="SAMNumber">FL020</SimpleData>
+		<SimpleData name="Name_cy">Caergwrle Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Flintshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir y Fflint</SimpleData>
+		<SimpleData name="Community">Hope</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3086</SimpleData>
+		<SimpleData name="easting">330697</SimpleData>
+		<SimpleData name="northing">357212</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.03669086548006,53.1075787297266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hawarden Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3085</SimpleData>
+		<SimpleData name="SAMNumber">FL016</SimpleData>
+		<SimpleData name="Name_cy">Hawarden Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Flintshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir y Fflint</SimpleData>
+		<SimpleData name="Community">Hawarden</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3085</SimpleData>
+		<SimpleData name="easting">331907</SimpleData>
+		<SimpleData name="northing">365367</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.02035504845302,53.1810244817266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chepstow Castle</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3137</SimpleData>
+		<SimpleData name="SAMNumber">MM003</SimpleData>
+		<SimpleData name="Name_cy">Chepstow Castle</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Monmouthshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Fynwy</SimpleData>
+		<SimpleData name="Community">Chepstow</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3137</SimpleData>
+		<SimpleData name="easting">353352</SimpleData>
+		<SimpleData name="northing">194109</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.67554424358548,51.6438314804576</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Denbigh Castle and Medieval Town</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3126</SimpleData>
+		<SimpleData name="SAMNumber">DE156</SimpleData>
+		<SimpleData name="Name_cy">Denbigh Castle and Medieval Town</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Denbighshire</SimpleData>
+		<SimpleData name="UnitaryAu0">Sir Ddinbych</SimpleData>
+		<SimpleData name="Community">Denbigh</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3126</SimpleData>
+		<SimpleData name="easting">305156</SimpleData>
+		<SimpleData name="northing">365781</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.42064269203491,53.1806419213441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castell Carn Dochan</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3208</SimpleData>
+		<SimpleData name="SAMNumber">ME049</SimpleData>
+		<SimpleData name="Name_cy">Castell Carn Dochan</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Gwynedd</SimpleData>
+		<SimpleData name="UnitaryAu0">Gwynedd</SimpleData>
+		<SimpleData name="Community">Llanuwchllyn</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3208</SimpleData>
+		<SimpleData name="easting">284705</SimpleData>
+		<SimpleData name="northing">330660</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.71396212037645,52.8610407573755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Criccieth Castle, Outer Bank Defences</name>
+	<ExtendedData><SchemaData schemaUrl="#centroids">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="RecordNumb">3184</SimpleData>
+		<SimpleData name="SAMNumber">CN173</SimpleData>
+		<SimpleData name="Name_cy">Criccieth Castle, Outer Bank Defences</SimpleData>
+		<SimpleData name="BroadClass">Defence</SimpleData>
+		<SimpleData name="BroadClas0">Amddiffynnol</SimpleData>
+		<SimpleData name="Period">Medieval</SimpleData>
+		<SimpleData name="Period_cy">Canoloesol</SimpleData>
+		<SimpleData name="SiteType">Castle</SimpleData>
+		<SimpleData name="SiteType_c">Castell</SimpleData>
+		<SimpleData name="UnitaryAut">Gwynedd</SimpleData>
+		<SimpleData name="UnitaryAu0">Gwynedd</SimpleData>
+		<SimpleData name="Community">Criccieth</SimpleData>
+		<SimpleData name="Report">http://cadwpublic-api.azurewebsites.net/reports/sam/FullReport?lang=en&amp;id=3184</SimpleData>
+		<SimpleData name="easting">249961</SimpleData>
+		<SimpleData name="northing">337791</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.23293736337881,52.9165261836718</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

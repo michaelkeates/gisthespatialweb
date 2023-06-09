@@ -1,0 +1,9 @@
+* {
+    mark: symbol(square);
+    mark-size: 8px;
+    :mark {
+      fill: #FF6600;
+      fill-opacity: 0.4; 
+      stroke: #000;
+    }
+}
