@@ -38,7 +38,7 @@ This is a collection of assigments that was set by the University of South Wales
 <li>Bing Maps Mapping API with toggles to enable layers loaded by KML/geoJSON..</li>
 <li>LeafletJS Mapping API with toggles to enable geoJSON, and connected to GeoServer to provide layers via WMS & WFS</li>
 <li>Open Layers Mapping API with toggles to enable layers loaded by geoJSON.</li>
-<li>Extra features added such as scraping data from the Wikipedia API, tracking the location of the International Space Station, display markers of crimes commited using a Post code among others.</li>
+<li>Extra features added such as scraping data from the Wikipedia API, tracking the location of the International Space Station, display markers of crimes commited using a post code among others.</li>
 </ul>
 
 <h2 align="left">Images</h1>
