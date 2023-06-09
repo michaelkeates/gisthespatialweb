@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://repository-images.githubusercontent.com/581304081/2ef66aee-afbe-43d5-b6ef-59f5c8e5792f" width="300px" height="300px"/>
+  <img src="https://repository-images.githubusercontent.com/651645413/e828c3ae-8acb-4244-9f4c-30fe5023fa1d" width="300px" height="300px"/>
 </p>
 <h1 align="center">GIS & The Spatial Web</h1>
 <p align="center">
