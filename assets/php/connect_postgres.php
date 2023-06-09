@@ -4,11 +4,11 @@
         ini_set('display_errors', 0);
         //include 'src/ChromePhp.php';
 
-        $host = 'ces-gis';
-        $port = '5432';
-        $dnmame = 'usw_teaching';
-        $user = 'guest';
-        $password = 'guest';
+        $host = '';
+        $port = '';
+        $dnmame = '';
+        $user = '';
+        $password = '';
 
         //establish connection to database
         $conn = pg_connect("host=$host port=$port dbname=$dnmame user=$user password=$password");

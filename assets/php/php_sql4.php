@@ -9,11 +9,11 @@ $incluArr = json_decode($_GET['inclu'], true);
 
 //** database login details **
 //$host = 'ces-gis';
-$host = 'ces-gis';
-$port = '5432';
-$dbname = 'usw_teaching';
-$user = 'guest';
-$password = 'guest';
+$host = '';
+$port = '';
+$dbname = '';
+$user = '';
+$password = '';
 
 //attempt connection
 $conn = pg_connect("host=$host port=$port dbname=$dbname user=$user password=$password");
