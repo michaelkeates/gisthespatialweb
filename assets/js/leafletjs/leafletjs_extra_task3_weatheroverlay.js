@@ -7,7 +7,7 @@ let temp;
 function addtempoverlay() {
   //get the lates weather data from openweathermap api
   temp = L.tileLayer(
-    "https://tile.openweathermap.org/map/temp/{z}/{x}/{y}.png?appid=8da17d421b2f5ec467286766f1b12bfd",
+    "https://tile.openweathermap.org/map/temp/{z}/{x}/{y}.png?appid=KEY",
     {
       maxZoom: 20,
     }
