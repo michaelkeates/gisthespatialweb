@@ -44,7 +44,7 @@ This is a collection of assigments that was set by the University of South Wales
 <h2 align="left">Images</h1>
 
 
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.46.54.jpeg" width="100px" height="67px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.46.54.jpeg" width="100%"/>
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.47.16.jpeg" width="100px" height="67px"/>
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.48.27.jpeg" width="100px" height="67px"/>
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.48.53.jpeg" width="100px" height="67px"/>
