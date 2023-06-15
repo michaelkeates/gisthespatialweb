@@ -45,14 +45,14 @@ This is a collection of assigments that was set by the University of South Wales
 
 
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.46.54.jpeg" width="100%"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.47.16.jpeg" width="100px" height="67px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.48.27.jpeg" width="100px" height="67px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.48.53.jpeg" width="100px" height="67px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.49.09.jpeg" width="100px" height="67px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.49.49.jpeg" width="100px" height="67px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.50.20.jpeg" width="100px" height="67px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.51.05.jpeg" width="100px" height="95px"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.52.21.jpeg" width="100px" height="95px"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.47.16.jpeg" width="100%"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.48.27.jpeg" width="100%"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.48.53.jpeg" width="100%"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.49.09.jpeg" width="100%"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.49.49.jpeg" width="100%"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.50.20.jpeg" width="100%"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.51.05.jpeg" width="100%"/>
+  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.52.21.jpeg" width="100%"/>
 
 <br>
 <h3 align="left">Author</h3>
