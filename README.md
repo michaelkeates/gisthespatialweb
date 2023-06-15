@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://repository-images.githubusercontent.com/651645413/e828c3ae-8acb-4244-9f4c-30fe5023fa1d" width="300px" height="300px"/>
+  <img src="https://repository-images.githubusercontent.com/651645413/3ea65d4c-1841-41e4-b917-707a1f8658b7" width="300px" height="300px"/>
 </p>
 <h1 align="center">GIS & The Spatial Web</h1>
 
@@ -44,15 +44,11 @@ This is a collection of assigments that was set by the University of South Wales
 <h2 align="left">Images</h1>
 
 
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.46.54.jpeg" width="100%"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.47.16.jpeg" width="100%"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.48.27.jpeg" width="100%"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.48.53.jpeg" width="100%"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.49.09.jpeg" width="100%"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.49.49.jpeg" width="100%"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.50.20.jpeg" width="100%"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.51.05.jpeg" width="100%"/>
-  <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.52.21.jpeg" width="100%"/>
+<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.46.54.jpeg" width="45%" hspace="10"/><img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.47.16.jpeg" width="45%" hspace="10"/>
+<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.48.27.jpeg" width="45%" hspace="10"/><img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.48.53.jpeg" width="45%" hspace="10"/>
+<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.49.09.jpeg" width="45%" hspace="10"/><img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.49.49.jpeg" width="45%" hspace="10"/>
+<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.50.20.jpeg" width="45%" hspace="10"/><img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.51.05.jpeg" width="45%" hspace="10"/>
+<img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.52.21.jpeg" width="45%" hspace="10"/>
 
 <br>
 <h3 align="left">Author</h3>
