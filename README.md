@@ -6,19 +6,19 @@
 
 <p align="center">
   <a href="http://unlicense.org/">
-    <img src="https://img.shields.io/badge/license-Unlicense-blue.svg" alt="License: Unlicense">
+    <img src="https://img.shields.io/badge/license-Unlicense-blue.svg" alt="License: Unlicense" />
   </a>
   
   <a href="https://github.com/michaelkeates/gisthespatialweb/issues">
-    <img src="https://img.shields.io/github/issues/michaelkeates/gisthespatialweb.svg" alt="Issues">
+    <img src="https://img.shields.io/github/issues/michaelkeates/gisthespatialweb.svg" alt="Issues" />
   </a>
   
   <a href="https://github.com/michaelkeates/gisthespatialweb/fork">
-    <img src="https://img.shields.io/github/forks/michaelkeates/gisthespatialweb.svg" alt="Forks">
+    <img src="https://img.shields.io/github/forks/michaelkeates/gisthespatialweb.svg" alt="Forks" />
   </a>
   
   <a href="https://github.com/michaelkeates/gisthespatialweb">
-    <img src="https://img.shields.io/github/stars/michaelkeates/gisthespatialweb.svg" alt="Stars">
+    <img src="https://img.shields.io/github/stars/michaelkeates/gisthespatialweb.svg" alt="Stars" />
   </a>
 </p>
 
