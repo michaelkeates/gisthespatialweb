@@ -2,9 +2,7 @@
   <img src="https://repository-images.githubusercontent.com/651645413/e828c3ae-8acb-4244-9f4c-30fe5023fa1d" width="300px" height="300px"/>
 </p>
 <h1 align="center">GIS & The Spatial Web</h1>
-<p align="center">
 
-<div class="badgesWrapper" align="center">
   <a href="http://unlicense.org/">
     <img align="center" src="https://img.shields.io/badge/license-Unlicense-blue.svg" alt="License: Unlicense" />
   </a>
@@ -20,9 +18,7 @@
   <a href="https://github.com/michaelkeates/gisthespatialweb">
     <img align="center" src="https://img.shields.io/github/stars/michaelkeates/gisthespatialweb.svg" alt="Stars" />
   </a>
-  </div>
 
-</p>
 A collection of web mapping APIs developed using PHP.
 <br></br>
 <br></br>
