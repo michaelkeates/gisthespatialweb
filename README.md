@@ -5,22 +5,22 @@
 
 <p align="center">
   <a href="http://unlicense.org/">
-    <img class="badge" align="center" src="https://img.shields.io/badge/license-Unlicense-blue.svg" alt="License: Unlicense" />
+    <img src="https://img.shields.io/badge/license-Unlicense-blue.svg" alt="License: Unlicense" />
   </a>
   
   <a href="https://github.com/michaelkeates/gisthespatialweb/issues">
-    <img class="badge" align="center" src="https://img.shields.io/github/issues/michaelkeates/gisthespatialweb.svg" alt="Issues" />
+    <img src="https://img.shields.io/github/issues/michaelkeates/gisthespatialweb.svg" alt="Issues" />
   </a>
   
   <a href="https://github.com/michaelkeates/gisthespatialweb/fork">
-    <img class="badge" align="center" src="https://img.shields.io/github/forks/michaelkeates/gisthespatialweb.svg" alt="Forks" />
+    <img src="https://img.shields.io/github/forks/michaelkeates/gisthespatialweb.svg" alt="Forks" />
   </a>
   
   <a href="https://github.com/michaelkeates/gisthespatialweb">
-    <img class="badge" align="center" src="https://img.shields.io/github/stars/michaelkeates/gisthespatialweb.svg" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/michaelkeates/gisthespatialweb.svg" alt="Stars" />
   </a>
   </p>
-
+  
 A collection of web mapping APIs developed using PHP.
 <br></br>
 <br></br>
@@ -43,7 +43,7 @@ This is a collection of assigments that was set by the University of South Wales
 
 <h2 align="left">Images</h1>
 
-<p align="center">
+
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.46.54.jpeg" width="100px" height="67px"/>
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.47.16.jpeg" width="100px" height="67px"/>
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.48.27.jpeg" width="100px" height="67px"/>
@@ -53,7 +53,7 @@ This is a collection of assigments that was set by the University of South Wales
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.50.20.jpeg" width="100px" height="67px"/>
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.51.05.jpeg" width="100px" height="95px"/>
   <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.52.21.jpeg" width="100px" height="95px"/>
-</p>
+
 <br>
 <h3 align="left">Author</h3>
 <ul>
