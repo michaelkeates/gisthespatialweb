@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://repository-images.githubusercontent.com/651645413/3ea65d4c-1841-41e4-b917-707a1f8658b7" width="300px" height="300px"/>
+  <img src="https://repository-images.githubusercontent.com/651645413/88649798-cc77-4ab4-9348-199a9861f111" width="300px" height="300px"/>
 </p>
+
 <h1 align="center">GIS & The Spatial Web</h1>
 
 <p align="center">
