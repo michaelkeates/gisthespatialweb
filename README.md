@@ -52,6 +52,14 @@ This is a collection of assigments that was set by the University of South Wales
 <img src="https://blog.michaelkeates.co.uk/wp-content/uploads/2023/06/Screenshot-2023-06-09-at-17.52.21.jpeg" width="45%" hspace="10"/>
 
 <br>
+<h3 align="left">Demo</h3>
+<ul>
+<p>Vist here for a <a href="https://gis.michaelkeates.co.uk">Live Demo</a>.</p>
+</ul>
+<ul>
+<p>Login credentials are "admin" for the username and "admin" for the password. Some features have been removed/disabled but can be viewed in the code.</p>
+</ul>
+
 <h3 align="left">Author</h3>
 <ul>
 Michael Keates <a href="https://www.michaelkeates.co.uk">Website</a>
